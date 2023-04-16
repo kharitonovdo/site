@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Игры</title>
+    <link rel="stylesheet" href="static/css/x.css">
+</head>
+<body>
+
+<h1>Игры</h1>
+
+{% for item in news["games"] %}
+<div class="grid-container">
+    <div class="grid-item">
+        <img src="/static/{{item["img"]}}"
+           alt="здесь должна была быть картинка, но не нашлась">
+        <a href="{{item["html"]}}"></a>
+
+    </div>
+
+    </div>
+    {% endfor %}
+</body>
+</html>

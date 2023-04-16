@@ -1,0 +1,34 @@
+{
+  "games": [
+    {
+      "title": "Magicka",
+      "img": "img/Magicka_1.png",
+      "html": "templates/Magicka.html"
+    },
+    {
+      "title": "Magicka 2",
+      "img": "img/magicka_2.jpg",
+      "html": "templates/Magicka_2.html"
+    },
+    {
+      "title": "hotline miami",
+      "img": "img/Magicka_1.png",
+      "html": "templates/hotline_miami.html"
+    },
+    {
+      "title": "hotline miami 2",
+      "img": "img/Magicka_1.png",
+      "html": "templates/hotline_miami_2.html"
+    },
+    {
+      "title": "Dishonored",
+      "img": "img/Magicka_1.png",
+      "html": "templates/Dishonored.html"
+    },
+    {
+      "title": "Minecraft",
+      "img": "img/Magicka_1.png",
+      "html": "templates/Minecraft.html"
+    }
+  ]
+}
