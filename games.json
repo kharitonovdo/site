@@ -3,32 +3,32 @@
     {
       "title": "Magicka",
       "img": "img/Magicka_1.png",
-      "html": "templates/Magicka.html"
+      "html": "Magicka.html"
     },
     {
       "title": "Magicka 2",
       "img": "img/magicka_2.jpg",
-      "html": "templates/Magicka_2.html"
+      "html": "Magicka_2.html"
     },
     {
       "title": "hotline miami",
-      "img": "img/Magicka_1.png",
-      "html": "templates/hotline_miami.html"
+      "img": "img/hotline-miami.png",
+      "html": "hotline_miami.html"
     },
     {
       "title": "hotline miami 2",
-      "img": "img/Magicka_1.png",
-      "html": "templates/hotline_miami_2.html"
+      "img": "img/hotline-maimi-2.png",
+      "html": "hotline_miami_2.html"
     },
     {
       "title": "Dishonored",
-      "img": "img/Magicka_1.png",
-      "html": "templates/Dishonored.html"
+      "img": "img/dishonored.jpg",
+      "html": "Dishonored.html"
     },
     {
       "title": "Minecraft",
-      "img": "img/Magicka_1.png",
-      "html": "templates/Minecraft.html"
+      "img": "img/Minecraft.png",
+      "html": "Minecraft.html"
     }
   ]
 }
